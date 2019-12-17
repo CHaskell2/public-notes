@@ -1,12 +1,6 @@
 # Book List
 
-## Reading
-
-* nada
-
-## Past
-
-### Have read, particularly recommend
+## Hall of Fame / Recommendations
 
 * [self-management] Why We Sleep: Unlocking the Power of Sleep and Dreams
 * [self-management] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
@@ -20,7 +14,11 @@
 * [software] Code Complete
 * [product] The Design of Everyday Things
 
-### Haven't read through yet, seem particularly interesting
+## Currently Reading
+
+* nada
+
+## On-deck
 
 * [software] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 * [self-management] Lead Yourself First: Inspiring Leadership Through Solitude
@@ -29,7 +27,7 @@
 * [organization] The Checklist Manifesto: How to Get Things Right
 * [engi-manage] 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts
 
-### Have somewhat recently read
+## Have somewhat recently read
 
 * [organization] An Everyone Culture: Becoming a Deliberately Developmental Organization
 * [self-management] Willpower: The Owner's Manual: 12 Tools for Doing the Right Thing
@@ -37,7 +35,7 @@
 * [self-management] Presence: Bringing Your Boldest Self to Your Biggest Challenges
 * [self-management] Make Your Bed: Little Things That Can Change Your Life...and Maybe the World
 
-## Reading Backlog or Reference, Owned or Unowned
+## Backlog or Reference
 
 ### Self Management
 
