@@ -63,7 +63,7 @@
 ### People & Organizations
 
 * Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition
-* Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior, Second Edition: -
+* Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior, Second Edition:
 * Thanks for the Feedback: The Science and Art of Receiving Feedback Well
 * The Making of a Manager: What to Do When Everyone Looks to You
 * Conversational Intelligence: How Great Leaders Build Trust and Get Extraordinary Results
