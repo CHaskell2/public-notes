@@ -39,6 +39,9 @@
 
 ### Self Management
 
+* The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded
+* Thinking, Fast and Slow
+* Stumbling on Happiness
 * A Mind for Numbers
 * The Power of Vulnerability: Teachings of Authenticity, Connection, and Courage
 * Deep Work: Rules for Focused Success in a Distracted World
@@ -60,6 +63,8 @@
 
 ### People & Organizations
 
+* Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time
+* Bargaining for Advantage: Negotiation Strategies for Reasonable People
 * Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition
 * Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior, Second Edition:
 * Thanks for the Feedback: The Science and Art of Receiving Feedback Well
@@ -131,6 +136,7 @@
 
 ### Misc
 
+* Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone
 * Product Development Flow
 * The Well-Grounded Rubyist
 * Practical Vim
