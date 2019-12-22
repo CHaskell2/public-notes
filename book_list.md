@@ -16,16 +16,15 @@
 
 ## Currently Reading
 
-* nada
+* [software] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+* [self-management] Lead Yourself First: Inspiring Leadership Through Solitude
 
 ## On-deck
 
-* [software] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-* [self-management] Lead Yourself First: Inspiring Leadership Through Solitude
+* [engi-manage] 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts
 * [organization] Systems Thinking For Social Change: A Practical Guide to Solving Complex Problems, Avoiding Unintended Consequences, and Achieving Lasting Results
 * [organization] Measuring and Managing Performance in Organizations
 * [organization] The Checklist Manifesto: How to Get Things Right
-* [engi-manage] 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts
 
 ## Have somewhat recently read
 
@@ -86,6 +85,9 @@
 * First, Break All The Rules: What the World's Greatest Managers Do Differently
 * The Effective Hiring Manager
 * The First-Time Manager
+* The Fifth Discipline: The Art & Practice of The Learning Organization
+* Formula X: How to Reach Extreme Acceleration in Your Organization 
+* Brave New Work: Are You Ready to Reinvent Your Organization?
 
 ### Software
 
@@ -103,6 +105,8 @@
 * Building Evolutionary Architectures
 * Effective C++
 * Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
+* Murach's SQL Server 2016 for Developers
+* The Effective Engineer
 
 ### Security
 
@@ -142,3 +146,14 @@
 * Practical Vim
 * The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers
 * Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content
+* Cultivating Communities of Practice
+* Building Successful Communities of Practice
+* Communities of Practice: Learning, Meaning, And Identity (Learning in Doing: Social, Cognitive and Computational Perspectives)
+* The Art of Community: Seven Principles for Belonging
+* The Art of Gathering: How We Meet and Why It Matters 
+* Situated Learning: Legitimate Peripheral Participation
+
+### Health
+
+* Rebuild Your Back
+* Bulletproof Your Shoulder: Optimizing Shoulder Function to End Pain and Resist Injury
